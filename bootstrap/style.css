@@ -1,0 +1,398 @@
+@charset "utf-8";
+body {
+}
+.navbar-nav.ms-auto .nav-item .nav-link {
+    padding-right: 46px;
+	color: black;
+}
+.highlight{
+	color: #297EF6
+}
+.card {
+  border: none;
+  border-radius: 15px;
+  overflow: hidden;
+  transition: all 0.4s ease;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.card img {
+  transition: transform 0.4s ease, filter 0.4s ease;
+}
+
+.card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 12px 25px rgba(0, 0, 0, 0.2);
+}
+
+.card:hover img {
+  transform: scale(1.05);
+  filter: brightness(0.9);
+}
+
+.card-body {
+  
+  transition: background-color 0.4s ease, color 0.4s ease;
+}
+
+
+
+
+.nav{
+    background-color: #FFFFFF;
+}
+.header {
+    background-color: #CAE5FB;
+    border-radius: 24px;
+}
+.col-xl-4 .card.col-md-4.col-xl-12 .card-img-top {
+    height: 351px;
+    border-radius: 45px;
+    padding-top: 13px;
+}
+
+
+		
+.navbar.navbar-expand-lg.py-3.sticky-top .container .navbar-brand.fw-bold {
+    padding-right: 490px;
+    -webkit-box-shadow: 0px 0px;
+    box-shadow: 0px 0px;
+    
+}
+.text-success   {
+    text-shadow: 0px 0px #297EF6;
+    color: #297EF6;
+}
+.col-md-6.col-xl-5 .mt-4 .btn.btn-outline-success {
+    background-color: #FFFFFF;
+    color: #000000;
+    border-color: #297EF6;
+    border-width: medium;
+}
+.row .col-xl-4 .card.col-md-4.col-xl-12 {
+    border-radius: 41px;
+    background-color: #E3EFFF;
+}
+.card-title {
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-style: oblique;
+    font-weight: bold;
+    color: #022B65;
+}
+.text-success {
+    color: #297EF6;
+}
+.col-md-6.col-xl-5 .fw-bold br {
+    color: #0C0C0C;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+}
+.navbar.navbar-expand-lg.py-3.sticky-top .container .navbar-brand.fw-bold {
+    color: #297EF6;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-weight: bold;
+}
+.container.d-flex.flex-column.flex-md-row.align-items-center.justify-content-between .col-md-6.col-xl-5 .fs-5 {
+    margin-top: -128px;
+}
+
+
+.container.d-flex.flex-column.flex-md-row.align-items-center.justify-content-between .col-md-6.col-xl-5 .lead.text-muted {
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-style: italic;
+}
+.row .col-md-6.text-md-end .d-flex.justify-content-md-end.justify-content-center.gap-3.fs-5.mt-2 {
+    padding-right: 451px;
+    padding-top: 9px;
+    width: auto;
+    margin-top: 0px;
+}
+
+.col-md-6.col-xl-5 .mt-4 .btn.btn-success.me-2 {
+    background-color: #297EF6;
+}
+.list-unstyled .mb-2 .fas.fa-envelope.me-2.text-success {
+    color: #2044C6;
+}
+.col-md-6.col-xl-5
+{
+    padding-top: 164px;	
+}
+
+
+i {
+  color: #007bff; /* Bootstrap primary blue */
+}
+
+
+i:hover {
+  color: #0056b3; /* Darker blue on hover */
+  transition: color 0.3s ease;
+}
+.mb-2{
+    padding-bottom: 13px;	
+}
+
+.navbar-nav.ms-auto .nav-item .nav-link {
+    color: #000000;
+}
+.navbar-nav .nav-link {
+  position: relative;
+  color: #000; /* Default text color */
+  font-weight: 400;
+  transition: color 0.3s ease;
+}
+
+/* Blue underline animation */
+.navbar-nav .nav-link::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 0%;
+  height: 4px;
+	border-radius: 10px;
+  background-color: #1769FF; /* Blue */
+  transition: width 0.3s ease;
+}
+
+/* Hover effect */
+.navbar-nav .nav-link:hover {
+  color: #297EF6* Blue text on hover */
+}
+
+.navbar-nav .nav-link:hover::after {
+  width: 60%;
+}
+
+.img-fluid{
+    margin-top: -116px;
+    padding-top: 0px;
+}
+.d-flex.justify-content-md-end.justify-content-center.gap-3.fs-5.mt-2 .text-white .fab.fa-linkedin-in {
+    padding-left: 1px;
+    padding-top: 0px;
+    margin-top: -62px;
+    margin-left: 2px;
+}
+.d-flex.justify-content-md-end.justify-content-center.gap-3.fs-5.mt-2 .text-white .fab.fa-linkedin-in {
+    padding-left: 2px;
+
+}
+.d-flex.justify-content-md-end.justify-content-center.gap-3.fs-5.mt-2 .text-white .fab.fa-behance {
+}
+
+.d-flex.justify-content-md-end.justify-content-center.gap-3.fs-5.mt-2 .text-white .fab.fa-instagram {
+    margin-top: 4px;
+}
+.navbar-nav.ms-auto .nav-item .nav-link {
+
+}
+
+
+
+#contact .container.text-center .fw-bold.mb-3 {
+}
+.container.d-flex.flex-column.flex-md-row.align-items-start .mb-4.mb-md-0 .mb-0.text-white {
+    margin-right: 186px;
+}
+.row .col-md-6.mb-4 .text-light {
+    margin-left: 16px;
+}
+.row .col-md-6.text-md-end h5 {
+    margin-left: 0px;
+    padding-right: 390px;
+}
+.container.d-flex.flex-column.flex-md-row div .fw-semibold {
+
+}
+.container.d-flex.flex-column.flex-md-row .mb-4.mb-md-0 .fw-bold {
+
+}
+.container.d-flex.flex-column.flex-md-row .mb-4.mb-md-0 .text-muted.mb-0 {
+    padding-right: 423px;
+}
+
+
+.social-icons.mt-3 .text-primary .fab.fa-linkedin-in {
+
+}
+.logo.fw-bold.text-primary {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-style: italic;
+    word-spacing: 3px;
+}
+
+
+
+
+
+
+
+
+/* ===============================
+   RESPONSIVE DESIGN STYLES
+   =============================== */
+
+/* General adjustments for small devices */
+@media (max-width: 992px) {
+  /* Navbar */
+  .navbar-brand {
+    font-size: 1.25rem;
+  }
+
+  .navbar-nav .nav-link {
+    font-size: 1rem;
+    padding: 8px 10px;
+  }
+
+  /* Hero Section */
+  section .col-md-6 h2 {
+    font-size: 1.8rem;
+    line-height: 1.3;
+  }
+
+  section .col-md-6 p.lead {
+    font-size: 1rem;
+  }
+
+  section img.img-fluid {
+    max-width: 300px;
+  }
+
+  /* About Section */
+  #about p {
+    font-size: 0.95rem;
+    line-height: 1.6;
+  }
+
+  /* Cards */
+  .card h5 {
+    font-size: 1rem;
+  }
+
+  .card img {
+    height: auto;
+  }
+
+  /* Contact Section */
+  #contact ul li {
+    font-size: 0.95rem;
+    word-break: break-word;
+  }
+
+  /* Footer */
+  footer h4, footer h5 {
+    font-size: 1rem;
+  }
+
+  footer p {
+    font-size: 0.9rem;
+  }
+}
+
+/* For tablets and medium screens */
+@media (max-width: 768px) {
+  /* Hero Section */
+  section .col-md-6 h2 {
+    font-size: 1.6rem;
+  }
+
+  .btn {
+    font-size: 0.9rem;
+    padding: 8px 18px;
+  }
+
+  /* Cards */
+  .card {
+    margin-bottom: 20px;
+  }
+
+  .card h5 {
+    font-size: 0.95rem;
+  }
+
+  /* Center text sections */
+  #about, #projects, #contact {
+    text-align: center;
+  }
+
+  /* Contact list alignment */
+  #contact ul {
+    text-align: left;
+  }
+}
+
+/* For small phones */
+@media (max-width: 576px) {
+  body {
+    font-size: 0.9rem;
+  }
+
+  /* Hero */
+  section .col-md-6 h2 {
+    font-size: 1.4rem;
+  }
+
+  section img.img-fluid {
+    max-width: 250px;
+  }
+	.container.d-flex.flex-column.flex-md-row .mb-4.mb-md-0 .text-muted.mb-0{
+		padding-right: 0px;
+	}
+  /* Navbar */
+  .navbar-brand {
+    font-size: 1.1rem;
+  }
+
+  /* Buttons */
+  .btn {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+	.row .col-md-6.text-md-end h5{
+		padding: 0px
+			
+	}
+  /* Footer */
+  footer {
+    text-align: center;
+  }
+
+  footer .d-flex {
+    justify-content: center !important;
+  }
+.navbar.navbar-expand-lg.py-3.sticky-top .container .navbar-brand.fw-bold {
+    padding-right: 0px;
+    -webkit-box-shadow: 0px 0px;
+    box-shadow: 0px 0px;
+    
+}
+	.card .col-md-4 .col-xl-12{
+		width: 300px;
+	}	
+	.col-xl-4 .card.col-md-4.col-xl-12 .card-img-top {
+    height: 351px;
+		width: 350px;
+		margin-left: 0px;
+		justify-content: center;
+    border-radius: 45px;
+		padding-top: 13px;}
+  footer p {
+    font-size: 0.8rem;
+  }
+}
+
+/* For extra large screens */
+@media (min-width: 1400px) {
+  section .col-md-6 h2 {
+    font-size: 2.2rem;
+  }
+
+  .lead {
+    font-size: 1.15rem;
+  }
+
+  .card h5 {
+    font-size: 1.1rem;
+  }
+}

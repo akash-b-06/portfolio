@@ -1,0 +1,55 @@
+@charset "utf-8";
+
+
+
+.container{
+    background-color: #D4E9FF;
+    height: 60px;
+    border-radius: 117px;
+    margin-top: -79px;
+}
+
+	
+
+
+.navbar-nav.ms-auto .nav-item .nav-link {
+    padding-left: 40px;
+    margin-left: 0px;
+    color: #0064C1;
+    font-weight: bold;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+.navbar.navbar-expand-lg.navbar-light.py-3.sticky-top .container .navbar-brand.fw-bold {
+    margin-right: 503px;
+    margin-left: 28px;
+    width: 144px;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-weight: bolder;
+    letter-spacing: 1px;
+    word-spacing: 8px;
+}
+.navbar.navbar-expand-lg.navbar-light.bg-light.py-3.shadow-sm.sticky-top {
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+}
+
+
+.row .col-xl-6 {
+    padding-left: 200px;
+}
+.row .img-fluid{
+    margin-top: -92px;
+	
+}.row{
+    margin-top: 38px;
+}
+.col-xl-6 .fw-bold .text-success {
+    color: #2C83FF;
+}
+.col-xl-6 .mt-4 .btn.btn-success.me-2 {
+    background-color: #297EF6;
+}
+.col-xl-6 .mt-4 .btn.btn-outline-success {
+    border-color: #297EF6;
+    background-color: #FFFFFF;
+    color: #000000;
+}
